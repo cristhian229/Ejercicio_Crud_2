@@ -1,3 +1,5 @@
+## Crud forkeado de coder Daniela para repaso node
+
 # Operadores de Sequelize
 
 `Op` es un objeto en Sequelize que contiene varios operadores de comparación que puedes usar en tus consultas. Aquí hay una lista de algunos operadores comunes y sus usos:
